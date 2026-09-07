@@ -1,6 +1,7 @@
 Nome: Hugo Bezerra	
 Curso: Engenharia de Software
 Disciplina: Design Profissional
+Professor: Davi Maxmillan Silva
 Anotações:
 - Aprendendo Git
 - Aprendendo GitHub
