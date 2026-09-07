@@ -1,0 +1,7 @@
+Nome: Hugo Bezerra	
+Curso: Engenharia de Software
+Disciplina: Design Profissional
+Anotações:
+- Aprendendo Git
+- Aprendendo GitHub
+- Praticando commits em equipe
