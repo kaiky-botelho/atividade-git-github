@@ -6,3 +6,5 @@ Anotações:
 - Aprendendo Git
 - Aprendendo GitHub
 - Praticando commits em equipe
+
+COMEÇANDO A SEGUNDA PARTE DO TRABALHO
