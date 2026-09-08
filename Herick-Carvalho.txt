@@ -1,5 +1,5 @@
-Nome: Herick Matheus Soares de Carvalho
-Curso: Engenharia de Software
-Disciplina: Design Profissional .
+nome- Herick Carvalho
+curso -  Engenharia de Software
+disciplina - Design Profissional
 
-Praticando commits em equipe .
+praticando commits em equipe.
