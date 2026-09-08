@@ -1,9 +1,0 @@
-nome: Leandro Miguel 
-engenharia de software - desing profissional
-prof: Davi Maxmillan
-metas atuai:
-- decorar os comandos de git no Windows poweshell
-- entender como funciona o GitHub
-- entender como o git funciona em grupo
-
-começando a fazer a terceira parte do trabalho.
